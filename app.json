@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "jobdonne",
+    "slug": "job-donne",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/mainicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash3.png",
+      "resizeMode": "contain",
+      "userInterfaceStyle": "dark",
+      "backgroundColor": "#14141c"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      
+      "versionCode": 3,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mainicon.png",
+        "backgroundColor": "#14141c"
+      },
+      "package": "com.mrn120.jobdonne"
+    },
+    "web": {
+      "favicon": "./assets/mainicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f28a26a9-0607-48a6-8d33-c894eaf732c0"
+      }
+    }
+  }
+}
